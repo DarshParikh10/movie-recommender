@@ -1,0 +1,41 @@
+movie_id,title,genres,ratings
+1,Inception,Sci-Fi|Thriller,4.8
+2,Interstellar,Sci-Fi|Drama,4.7
+3,The Dark Knight,Action|Crime,4.9
+4,Avengers: Endgame,Action|Sci-Fi,4.6
+5,Titanic,Romance|Drama,4.7
+6,Joker,Drama|Thriller,4.5
+7,The Matrix,Sci-Fi|Action,4.8
+8,Gladiator,Action|Drama,4.6
+9,The Shawshank Redemption,Drama|Crime,4.9
+10,Forrest Gump,Drama|Romance,4.8
+11,The Godfather,Crime|Drama,4.9
+12,The Lord of the Rings: The Return of the King,Fantasy|Adventure,4.9
+13,Star Wars: A New Hope,Sci-Fi|Adventure,4.7
+14,Spider-Man: No Way Home,Action|Sci-Fi,4.6
+15,Parasite,Drama|Thriller,4.8
+16,The Lion King,Animation|Drama,4.7
+17,Finding Nemo,Animation|Adventure,4.6
+18,The Conjuring,Horror|Thriller,4.5
+19,A Quiet Place,Horror|Sci-Fi,4.6
+20,Get Out,Horror|Thriller,4.7
+21,Pulp Fiction,Crime|Drama,4.9
+22,Deadpool,Action|Comedy,4.5
+23,The Grand Budapest Hotel,Comedy|Drama,4.6
+24,La La Land,Romance|Musical,4.5
+25,The Social Network,Biography|Drama,4.6
+26,The Wolf of Wall Street,Biography|Comedy,4.5
+27,1917,War|Drama,4.6
+28,Dunkirk,War|Action,4.5
+29,Coco,Animation|Fantasy,4.7
+30,Whiplash,Drama|Music,4.8
+31,Shutter Island,Thriller|Mystery,4.7
+32,Blade Runner 2049,Sci-Fi|Mystery,4.6
+33,Gravity,Sci-Fi|Adventure,4.5
+34,Logan,Action|Drama,4.7
+35,The Revenant,Adventure|Drama,4.6
+36,A Star Is Born,Romance|Drama,4.5
+37,Black Panther,Action|Sci-Fi,4.6
+38,Bohemian Rhapsody,Biography|Music,4.5
+39,The Irishman,Crime|Drama,4.4
+40,Jumanji: Welcome to the Jungle,Action|Comedy,4.3
